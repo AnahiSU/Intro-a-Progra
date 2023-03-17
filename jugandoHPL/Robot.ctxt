@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\nJugando\ HPL\r\nDos\ lanzadas\ y\ dos\ dados,\ es\ todo\ lo\ que\ separa\ al\ ganador\ del\ perdedor,\r\nHugo,\ Paco\ y\ Luis\ est\u00E1n\ decididos\ a\ hacer\ la\ mejor\ lanzada\ de\ sus\ vidas\r\naquel\ que\ saque\ el\ valor\ par\ m\u00E1s\ grande\ gana,\ as\u00ED\ de\ simple\ es\ el\ juego.\r\nConstruye\ un\ programa\ que\ lea\ las\ lanzadas\ de\ Hugo,\ Paco\ y\ Luis\ en\ ese\r\norden\ y\ muestre\ quien\ es\ el\ ganador.\ Sin\ embargo,\ si\ no\ hay\ ning\u00FAn\ par\ o\r\ntodos\ sacaron\ el\ mismo\ valor,\ entonces\ nadie\ gana.\r\n\r\nSalida\r\nPara\ cada\ caso\ de\ prueba,\ escribir\ el\ ganador\ del\ juego,\ si\ nadie\ gan\u00F3,\r\nescribir\ NADIE\r\n
+comment1.params=dado1H\ dado2H\ dado1P\ dado2P\ dado1L\ dado2L
+comment1.target=java.lang.String\ juguemosHPL(byte,\ byte,\ byte,\ byte,\ byte,\ byte)
+numComments=2
