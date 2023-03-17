@@ -24,7 +24,7 @@ public class Robot
         String resultado = "NADIE";
         if ((sumaHugo <= 12 && sumaHugo > 1) && (sumaPaco <= 12 && sumaPaco > 1) && (sumaLuis <= 12 && sumaPaco > 1)) //parametros para saber que es una jugada válida
         {
-            if (sumaHugo == sumaPaco && sumaHugo == sumaLuis){
+            if ((sumaHugo == sumaPaco) || (sumaHugo == sumaLuis) || (sumaPaco == sumaLuis)){
                 resultado = "NADIE";
             }
             else{
