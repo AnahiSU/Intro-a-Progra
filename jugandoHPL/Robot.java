@@ -1,5 +1,6 @@
 
 /*
+---Práctica con if-else---
 Jugando HPL
 Dos lanzadas y dos dados, es todo lo que separa al ganador del perdedor,
 Hugo, Paco y Luis están decididos a hacer la mejor lanzada de sus vidas
@@ -21,23 +22,28 @@ public class Robot
         int sumaLuis = dado1L + dado2L;
         int mayor = -1;
         String resultado = "NADIE";
-        if ((sumaHugo <= 12 && sumaHugo > 1) && (sumaPaco <= 12 && sumaPaco > 1) && (sumaLuis <= 12 && sumaPaco > 1)){
-            if (sumaHugo % 2 == 0){
-                mayor = sumaHugo;
-                resultado = "GANA HUGO";
+        if ((sumaHugo <= 12 && sumaHugo > 1) && (sumaPaco <= 12 && sumaPaco > 1) && (sumaLuis <= 12 && sumaPaco > 1)) //parametros para saber que es una jugada válida
+        {
+            if (sumaHugo == sumaPaco && sumaHugo == sumaLuis){
+                resultado = "NADIE";
             }
-            if (sumaPaco % 2 == 0 && sumaPaco > mayor){
-                mayor = sumaPaco;
-                resultado = "GANA PACO";
+            else{
+                if (sumaHugo % 2 == 0){
+                    mayor = sumaHugo;
+                    resultado = "GANA HUGO";
+                }
+                if (sumaPaco % 2 == 0 && sumaPaco > mayor){
+                    mayor = sumaPaco;
+                    resultado = "GANA PACO";
+                }
+                if (sumaLuis % 2 == 0 && sumaPaco > mayor){
+                    mayor = sumaLuis;
+                    resultado = "GANA LUIS";
+                }
             }
-            if (sumaLuis % 2 == 0 && sumaPaco > mayor){
-                mayor = sumaLuis;
-                resultado = "GANA LUIS";
-            }
-            }
-            return resultado;
         }
-        
+        return resultado;
     }
+}
 
 
