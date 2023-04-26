@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Complejo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Complejo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=real\ imag
+comment1.target=Complejo(double,\ double)
+comment2.params=otro
+comment2.target=Complejo\ sumar(Complejo)
+comment3.params=otro
+comment3.target=Complejo\ restar(Complejo)
+comment4.params=otro
+comment4.target=Complejo\ multiplicar(Complejo)
+comment5.params=otro
+comment5.target=Complejo\ dividir(Complejo)
+comment6.params=
+comment6.target=double\ obtenerReal()
+comment7.params=
+comment7.target=double\ obtenerImaginario()
+numComments=8

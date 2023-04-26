@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Juego
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Juego\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=zona\ per1\ per2
+comment1.target=Juego(Zona,\ Persona,\ Persona)
+numComments=2

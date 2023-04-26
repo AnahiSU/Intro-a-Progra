@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rectangulo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rect\u00E1ngulo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=vSI\ vSD\ vII\ vID
+comment1.target=Rectangulo(Vertice,\ Vertice,\ Vertice,\ Vertice)
+comment2.params=
+comment2.target=java.lang.String\ esRectangulo()
+comment3.params=
+comment3.target=java.lang.String\ esCuadrado()
+comment4.params=
+comment4.target=double\ calcularArea()
+comment5.params=rec
+comment5.target=java.lang.String\ estaDentro(Rectangulo)
+numComments=6

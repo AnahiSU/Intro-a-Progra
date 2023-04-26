@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fecha
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fecha\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ Se\ asume\ que\ no\ se\ dar\u00E1\ m\u00E1s\ de\ 30\ o\ 31\ d\u00EDas\ para\ recorrer\ o\ calcular\ la\ diferencia.\r\n
+comment1.params=d\ m\ a
+comment1.target=Fecha(int,\ int,\ int)
+comment2.params=dias
+comment2.target=void\ agregarDias(int)
+comment3.params=
+comment3.target=java.lang.String\ getFecha()
+numComments=4
