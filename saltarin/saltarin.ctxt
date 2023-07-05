@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=saltarin
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ saltarin\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=c\ array
+comment1.target=saltarin(java.lang.String,\ char[])
+comment2.params=
+comment2.target=java.lang.String\ pasosSaltar()
+comment3.params=arr\ letra
+comment3.target=int[]\ indices(char[],\ char)
+numComments=4

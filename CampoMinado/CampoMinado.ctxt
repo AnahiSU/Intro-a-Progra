@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CampoMinado
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CampoMinado\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=c
+comment1.target=CampoMinado(Mina[][])
+comment2.params=x\ y
+comment2.target=java.lang.String\ destruir(int,\ int)
+comment3.params=x\ y\ alc
+comment3.target=void\ explotarVert(int,\ int,\ int)
+comment4.params=x\ y\ alc
+comment4.target=void\ explotarHor(int,\ int,\ int)
+numComments=5

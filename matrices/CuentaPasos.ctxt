@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CuentaPasos
+comment1.params=matriz\ x1\ y1\ x2\ y2
+comment1.target=CuentaPasos(int[][],\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ cuentaPasos()
+comment3.params=actX\ actY
+comment3.target=int\ contarHorVer(int,\ int)
+comment4.params=x\ y
+comment4.target=int\ sigueContando(int,\ int)
+numComments=5

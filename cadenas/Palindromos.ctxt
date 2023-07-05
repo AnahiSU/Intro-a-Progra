@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Palindromos
+comment1.params=cad
+comment1.target=Palindromos(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ encontrarPalindromo()
+comment3.params=a\ b\ cad
+comment3.target=java.lang.String\ palExiste(int,\ int,\ java.lang.String)
+numComments=4

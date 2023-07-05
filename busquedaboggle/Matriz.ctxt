@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Matriz
+comment1.params=m
+comment1.target=Matriz(char[][])
+comment2.params=tab\ cad
+comment2.target=java.util.ArrayList\ busquedaBoggle(char[][],\ java.lang.String)
+comment3.params=p\ lis
+comment3.target=boolean\ yaEsta(Punto,\ java.util.ArrayList)
+comment4.params=l
+comment4.target=java.util.ArrayList\ sonAdyacentes(java.util.ArrayList)
+numComments=5

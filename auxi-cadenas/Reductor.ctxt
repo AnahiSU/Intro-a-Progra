@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Reductor
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Reductor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n
+comment1.target=int\ reducir(int)
+comment2.params=n
+comment2.target=int\ contarDigi(int)
+numComments=3
